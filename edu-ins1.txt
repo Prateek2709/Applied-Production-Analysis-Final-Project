@@ -1,0 +1,10 @@
+edu-dta.txt            DATA FILE NAME
+ccr-stage1.txt            OUTPUT FILE NAME
+50                NUMBER OF FIRMS
+1		NUMBER OF TIME PERIODS 
+2                NUMBER OF OUTPUTS
+4                NUMBER OF INPUTS
+1                0=INPUT AND 1=OUTPUT ORIENTATED
+0		0=CRS AND 1=VRS
+3		0=DEA(MULTI-STAGE), 1=COST-DEA, 2=MALMQUIST-DEA, 3=DEA(1-STAGE), 4=DEA(2-STAGE)
+
